@@ -1,7 +1,14 @@
 # Algorithms
 Learning algorithms and practicing coding skills
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
+
+<a name="desc"></a>
+## 1. Description
+
+sometext
+
+<a name="usage"></a>
+## 2. Usage tips
+
+sometext
